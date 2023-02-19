@@ -1,0 +1,1 @@
+java --module-path D:\Java\ext\javafx-sdk-20\lib --add-modules javafx.controls -jar 000JavaJDBC.jar
